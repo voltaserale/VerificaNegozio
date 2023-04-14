@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Serale
+ *
+ */
+module VerificaNegozio {
+}
