@@ -17,7 +17,7 @@ public class Main {
         String risp;
         SimpleDateFormat dateFormat=new SimpleDateFormat("dd/MM/yyyy");
         do {
-          //  Console.clear();
+            Console.clear();
             System.out.println("GESTIONE NEGOZIO\n");
             System.out.println("1 - Visualizza prodotti");
             System.out.println("2 - Aggiungi prodotto");            
